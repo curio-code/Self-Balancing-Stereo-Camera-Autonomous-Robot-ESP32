@@ -5,7 +5,7 @@
   <img src="/Graphics/Robot_Model.gif" alt="animated" width="600" height="600" />
 </p>
 <h2> Theme </h2>
-To provide a DIY and Budget alternative to expensive Autonomous vehicles platforms like AWS DeepRacer.
+To provide a DIY and Budget alternative to expensive miniature autonomous vehicle platforms like AWS DeepRacer.
 <h2> Methodology </h2>
 To reduce the cost, minimal 'on-robot' proceesing was encouraged. Heavy lifting tasks like Image Processing etc was to be done by a remote PC. To achieve this all the sensor data has to be wirelessly communicated to the PC and PC sends back the processed results to robot. Hence ESP32 was ideal platform, it has inbuilt WiFi capabilty and can host small websites. ESP32-CAM modules with ov2460 cameras were choosen for Stereo Camera setup. And an EPS32 Developement Board were chosen for self balancing functionality. To generate the odometry data encoder disc with light blocking sensors was used.
 <h2> Code Structure </h2>
