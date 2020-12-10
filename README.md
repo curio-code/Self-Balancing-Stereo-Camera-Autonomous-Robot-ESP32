@@ -6,9 +6,9 @@
 </p>
 <h2> Code Structure </h2>
 1. Left_Camera <br>
-            - Embedded Code for the Left Camera.<br>
+            -   Embedded Code for the Left Camera.<br>
 2. Right_Camera <br>
-            - Embedded Code for the Right Camera. <br>
+            -   Embedded Code for the Right Camera. <br>
 3. Self_Balancing <br>
             - Embedded Code for the Central ESP32 Board with Web interface for giving  commands. <br>
             - Embedded Code for the Central ESP32 Board with Web interface for tuning PID parameters. <br>
