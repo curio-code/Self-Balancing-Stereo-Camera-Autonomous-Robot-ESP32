@@ -1,1 +1,2 @@
-<h1> Web Interface for Tuning PID </h1>
+<h2> Web Interface for Tuning PID </h2>
+<img src="/Graphics/TunePID.png" />
