@@ -19,6 +19,8 @@ To provide a DIY and Budget alternative to expensive miniature autonomous vehicl
 3. Self_Balancing <br>
 &nbsp;&nbsp;&nbsp;&nbsp; - Embedded Code for the Central ESP32 Board with Web interface for giving  commands. <br>
 &nbsp;&nbsp;&nbsp;&nbsp; - Embedded Code for the Central ESP32 Board with Web interface for tuning PID parameters. <br>
+4. Depth Map <br>
+&nbsp;&nbsp;&nbsp;&nbsp; - Code to stream the images from both cameras and procesing them to generate the disparity map. <br>
             
 <h2> Hardware Implementation </h2>
 <p align="center">
