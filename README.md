@@ -1,5 +1,5 @@
 
-# Self-Balancing-Stereo-Camera-Autonomous-Robot-ESP32
+# Self-Balancing-Autonomous-Robot(SBAR)-ESP32
 
 <p align="center">
   <img src="/Graphics/Robot_Model.gif" alt="animated" width="600" height="600" />
