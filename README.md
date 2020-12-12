@@ -29,4 +29,4 @@ To provide a DIY and Budget alternative to expensive miniature autonomous vehicl
 
 <h2> Result </h2>
 <h3> Stereo Camera Calibration and Disparity Map Generation </h3>
-  <img src="/Graphics/StereoDemo_hi.gif" alt="animated" width="1000" height="350"/>
+  <img src="/Graphics/StereoDemo_hi.gif" alt="animated" width="800" height="350"/>
